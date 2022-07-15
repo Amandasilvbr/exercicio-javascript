@@ -19,7 +19,7 @@ Imagine que estamos para partir numa viagem interplanetária e temos 3 naves à 
 Queremos dar partida nas 3 e ver com quais delas conseguimos sair. Para isso:
 
 <ul>
-<li>Crie uma classe para as naves num arquivo separado</li>
+<li>Crie uma classe para as naves num arquivo separado;</li>
 <li>Crie uma classe para verificar se a nave pode sair ou não, instanciando o objeto a partir dessa classe e utilizando uma Promise;</li>
 <li>Cada nave deve ser iniciada individualmente e uma mensagem deve informar a capacidade e se a nave está apta para partir;</li>
 </ul>
